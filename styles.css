@@ -1,0 +1,38 @@
+.picture {
+
+    display: inline-block;
+    
+    margin: 10px;
+}
+
+
+.counter {
+	border:#A29574 solid 3px;
+    color:#4b5320 ;
+    height:200px;
+    width:800px;
+    margin:100px;
+
+}
+button{
+	color:#4b5320;
+    background-color:white;
+
+}
+
+.gallery img {
+	height:200px;
+    border:5px double black;
+}
+   
+.gallery p {
+	text-align: center;
+    margin-top: 0;
+
+}
+
+body{
+	text-align: center;
+ 	 background-color: #B7C68B;
+     color:#4b5320;
+}
